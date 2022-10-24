@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8zRh8gs1VGuPJX6Xs0juORfC+0J9e0e9YIA363kGc4YTwoFiIkfHi69QoV66Ppp2pRYJC6B0VM1F6a5eeLPJFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Donnovan\\Desktop\\Estudo atual\\AppModelo\\src\\AppModel\\AppModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Donnovan\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512"
+  ],
+  "logs": []
+}
