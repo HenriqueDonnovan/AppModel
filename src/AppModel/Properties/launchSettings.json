@@ -22,7 +22,6 @@
         "ASPNETCORE_ENVIRONMENT": "Production"
       }
     },
-
     "AppModel": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
