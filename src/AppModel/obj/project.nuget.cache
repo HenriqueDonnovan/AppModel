@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8zRh8gs1VGuPJX6Xs0juORfC+0J9e0e9YIA363kGc4YTwoFiIkfHi69QoV66Ppp2pRYJC6B0VM1F6a5eeLPJFQ==",
+  "dgSpecHash": "insScYhqOaw/llHn85JB4lFqAYN+oR2iNxinFDumZhVd6+AXAKNhDmUUxGlEfcb1JuMzS/OxGkn1dcy4licV5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Donnovan\\Desktop\\Estudo atual\\AppModelo\\src\\AppModel\\AppModel.csproj",
+  "projectFilePath": "C:\\Users\\dodo-\\OneDrive\\Área de Trabalho\\DevIO\\AppModel\\src\\AppModel\\AppModel.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Donnovan\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512"
+    "C:\\Users\\dodo-\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512"
   ],
   "logs": []
 }

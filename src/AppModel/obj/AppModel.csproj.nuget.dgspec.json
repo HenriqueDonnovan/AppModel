@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Donnovan\\Desktop\\Estudo atual\\AppModelo\\src\\AppModel\\AppModel.csproj": {}
+    "C:\\Users\\dodo-\\OneDrive\\Área de Trabalho\\DevIO\\AppModel\\src\\AppModel\\AppModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Donnovan\\Desktop\\Estudo atual\\AppModelo\\src\\AppModel\\AppModel.csproj": {
+    "C:\\Users\\dodo-\\OneDrive\\Área de Trabalho\\DevIO\\AppModel\\src\\AppModel\\AppModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Donnovan\\Desktop\\Estudo atual\\AppModelo\\src\\AppModel\\AppModel.csproj",
+        "projectUniqueName": "C:\\Users\\dodo-\\OneDrive\\Área de Trabalho\\DevIO\\AppModel\\src\\AppModel\\AppModel.csproj",
         "projectName": "AppModel",
-        "projectPath": "C:\\Users\\Donnovan\\Desktop\\Estudo atual\\AppModelo\\src\\AppModel\\AppModel.csproj",
-        "packagesPath": "C:\\Users\\Donnovan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Donnovan\\Desktop\\Estudo atual\\AppModelo\\src\\AppModel\\obj\\",
+        "projectPath": "C:\\Users\\dodo-\\OneDrive\\Área de Trabalho\\DevIO\\AppModel\\src\\AppModel\\AppModel.csproj",
+        "packagesPath": "C:\\Users\\dodo-\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dodo-\\OneDrive\\Área de Trabalho\\DevIO\\AppModel\\src\\AppModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Donnovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dodo-\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
